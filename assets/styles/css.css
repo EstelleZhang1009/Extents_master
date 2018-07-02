@@ -240,6 +240,7 @@ strong {
     border: none;
     padding: 1.5em;
     border-radius: 0;
+    margin-left: 2.17em;
 }
 .panel.no-bg, .panel.no-bg table, .panel.no-bg table th {
     background: none !important;
